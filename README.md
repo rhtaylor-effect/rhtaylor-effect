@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rhtaylor-effect
+- 👀 I’m interested in building tools with software as solutions for life.
+- 🌱 I’m currently learning Android Development && AWS integration.
+- 💞️ I’m looking to collaborate on a team to achieve the best solutions.
+- 📫 How to reach me randall.taylor@effectual.com || rhtaylorgithub@gmail.com
